@@ -78,3 +78,11 @@ async def analyse(user_input: CultureFitInput):
     top_companies = [companies_data[i] for i in top_indices]
 
     return {"companies": top_companies}
+
+
+    # Finde die Top 3 ähnlichsten Unternehmen
+    top_indices = np.argsort(similarities)[::-1][:3]
+    top_companies = [companies_data[i] for i in top_indices]
+
+    return {"companies": top_companies}
+

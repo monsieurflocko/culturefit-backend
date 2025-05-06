@@ -3,6 +3,17 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 
+import json
+from pathlib import Path
+
+# Lade Unternehmensdatenbank beim Start
+companies_file = Path("companies.json")
+if companies_file.exists():
+    with open(companies_file, "r", encoding="utf-8") as f:
+        companies_data = json.load(f)
+else:
+    companies_data = []
+
 app = FastAPI()
 
 app.add_middleware(

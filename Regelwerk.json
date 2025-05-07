@@ -1,0 +1,537 @@
+{
+  "category": "Unternehmensgröße",
+  "description": "Die Anzahl der Mitarbeitenden eines Unternehmens. Diese Kennzahl beeinflusst maßgeblich Struktur, Kommunikationswege, Eigenverantwortung und Nähe zur Führungsebene. Die Größe kann aus öffentlich zugänglichen Quellen wie LinkedIn, Impressum, Unternehmensprofilen oder Geschäftsberichten abgeleitet werden.",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Klein",
+      "range": "1–49 Mitarbeitende",
+      "definition": "Kleine Unternehmen zeichnen sich durch eine geringe Mitarbeiterzahl aus, oft mit direkter Nähe zur Geschäftsführung. Die Rollen sind breiter gefasst, Mitarbeitende übernehmen mehrere Verantwortlichkeiten.",
+      "cultural_effects": [
+        "Hoher Grad an Eigenverantwortung, da weniger spezialisierte Rollen existieren.",
+        "Flache Hierarchien und schnelle Kommunikationswege.",
+        "Starke persönliche Nähe im Team und zur Führungsebene.",
+        "Geringer Formalisierungsgrad – Prozesse und Regeln sind oft flexibel.",
+        "Veränderungen können schnell umgesetzt werden, da Abstimmungsaufwand gering ist."
+      ]
+    },
+    {
+      "label": "Mittel",
+      "range": "50–499 Mitarbeitende",
+      "definition": "Mittlere Unternehmen verfügen über eine gewisse Struktur, jedoch ohne die Starrheit großer Konzerne. Sie bieten oft eine Balance aus Flexibilität und Prozessorientierung.",
+      "cultural_effects": [
+        "Gemischte Kultur: teils strukturierte Prozesse, teils flexible Handlungsfreiheit.",
+        "Moderate Hierarchietiefe mit erkennbarem Managementlayer.",
+        "Eigenverantwortung ist häufig rollenabhängig – in einigen Bereichen hoch, in anderen stärker geführt.",
+        "Kommunikation kann teamnah oder bereichsübergreifend organisiert sein.",
+        "Veränderungsfähigkeit ist vorhanden, aber oft langsamer als bei kleinen Unternehmen."
+      ]
+    },
+    {
+      "label": "Groß",
+      "range": "500+ Mitarbeitende",
+      "definition": "Große Unternehmen oder Konzerne haben komplexe Strukturen mit spezialisierten Funktionen, etablierten Prozessen und mehreren Führungsebenen.",
+      "cultural_effects": [
+        "Stark strukturierte Prozesse und klare Rollenteilung.",
+        "Geringere Eigenverantwortung auf Einzelebene – Entscheidungen werden häufiger top-down getroffen.",
+        "Mehrstufige Kommunikation und oft formalisierte Abstimmungswege.",
+        "Stärkere Hierarchien und häufig formeller Umgang.",
+        "Veränderungen brauchen Zeit, da viele Stakeholder und Prozesse betroffen sind.",
+        "Mitarbeitende erleben oft eine gewisse Distanz zur Unternehmensleitung."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Unternehmenstyp",
+  "description": "Der Unternehmenstyp beschreibt die grundlegende Form und Ausrichtung des Unternehmens. Er gibt Hinweise auf das Alter, die Organisationsform, die Kapitalstruktur sowie die kulturelle Prägung. Diese Kategorie beeinflusst maßgeblich Entscheidungsprozesse, Formalisierungsgrad, Stabilität und Innovationsbereitschaft. Der Typ ist meist öffentlich sichtbar über Website, Impressum, Firmenprofil oder durch Nennung in Artikeln und Branchenportalen.",
+  "scale_type": "nominal",
+  "values": [
+    {
+      "label": "Startup",
+      "definition": "Junges, wachstumsorientiertes Unternehmen in der frühen oder skalierenden Phase, oft mit innovationsgetriebenem Geschäftsmodell und risikobereiter Unternehmenskultur.",
+      "cultural_effects": [
+        "Hohe Veränderungsdynamik – Strukturen im Aufbau oder stetig im Wandel.",
+        "Hohe Eigenverantwortung und flache Hierarchien.",
+        "Fehler werden oft als Teil des Lernprozesses akzeptiert.",
+        "Informeller Kommunikationsstil, meist Du-Kultur.",
+        "Starker Leistungsdruck durch hohe Ambitionen und begrenzte Ressourcen.",
+        "Sinnstiftung oft durch Vision oder Innovationsziel, weniger durch gesellschaftlichen Impact."
+      ]
+    },
+    {
+      "label": "KMU",
+      "definition": "Etabliertes kleines oder mittleres Unternehmen mit stabiler Struktur und klarer Ausrichtung. Oft familiengeführt oder inhabergeprägt.",
+      "cultural_effects": [
+        "Stabile Prozesse und gewachsene Strukturen.",
+        "Eigenverantwortung ist abhängig vom Führungsstil – teils hoch, teils stark gelenkt.",
+        "Kommunikation kann persönlich oder hierarchisch geprägt sein.",
+        "Veränderungen erfolgen schrittweise, meist konservativ.",
+        "Formalitäten und Titelgebrauch variieren stark – abhängig vom Führungsteam.",
+        "Purpose-orientierung ist selten ausgeprägt, Identifikation eher mit Produkt/Leistung."
+      ]
+    },
+    {
+      "label": "Konzern",
+      "definition": "Großunternehmen mit komplexen Strukturen, meist börsennotiert oder mit mehreren Tochtergesellschaften. Starke Prozessorientierung und funktionale Arbeitsteilung.",
+      "cultural_effects": [
+        "Hoher Formalisierungsgrad mit klaren Prozessen und Zuständigkeiten.",
+        "Geringere Eigenverantwortung – Entscheidungen häufig top-down.",
+        "Fehlerkultur ist oft risikoavers, da Reputation und Compliance eine große Rolle spielen.",
+        "Hierarchischer Aufbau mit eingeschränkter Sichtbarkeit der Unternehmensleitung.",
+        "Kommunikationsstil meist formell, Titel und Zuständigkeiten klar geregelt.",
+        "Sinn- und Purpose-Erleben ist abhängig von der internen Kommunikation – oft wenig spürbar."
+      ]
+    },
+    {
+      "label": "NGO / NPO",
+      "definition": "Nicht gewinnorientierte Organisation mit gesellschaftlicher oder ökologischer Mission. Fokus auf Wirkung statt Wachstum oder Rendite.",
+      "cultural_effects": [
+        "Starke Sinnorientierung und Identifikation mit dem Zweck der Organisation.",
+        "Flachere Hierarchien und teamorientiertes Arbeiten.",
+        "Hohe intrinsische Motivation der Mitarbeitenden.",
+        "Fehlerkultur kann von Idealismus geprägt sein – Lernkultur variiert.",
+        "Ressourcenknappheit führt oft zu pragmatischen Lösungen und Improvisation.",
+        "Leistungsdruck ist meist geringer als in der Privatwirtschaft."
+      ]
+    },
+    {
+      "label": "Öffentliche Einrichtung",
+      "definition": "Organisation im öffentlichen Sektor, z. B. Verwaltung, Hochschulen, kommunale Betriebe. Stark durch gesetzliche Vorgaben und Haushaltspflichten geprägt.",
+      "cultural_effects": [
+        "Hoher Formalisierungsgrad und starke Regeltreue.",
+        "Veränderungen erfolgen meist sehr langsam und kontrolliert.",
+        "Entscheidungsprozesse sind komplex und durch viele Instanzen geprägt.",
+        "Hierarchien sind formal festgelegt, Kommunikationswege lang.",
+        "Fehler werden eher vermieden als analysiert – hohe Risikovermeidung.",
+        "Sinnstiftung ist potenziell hoch (Gemeinwohl), aber individuell erlebbar."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Firmentyp / Tätigkeit",
+  "description": "Der Firmentyp beschreibt die primäre operative Ausrichtung eines Unternehmens: Bietet es Beratung an, entwickelt es Produkte, ist es kreativ tätig oder stellt es physische Güter her? Diese Tätigkeit beeinflusst die Arbeitsweise, die Teamstruktur, den Projektcharakter und den Kundenzugang maßgeblich. Sie ist meist aus der Unternehmensbeschreibung, Leistungsseite oder Stellenanzeigen ableitbar.",
+  "scale_type": "nominal",
+  "values": [
+    {
+      "label": "Beratung",
+      "definition": "Unternehmen, das projektweise externen Kunden hilft, Strategien, Prozesse oder Technologien zu entwickeln, optimieren oder implementieren. Hohe Kundenabhängigkeit, wechselnde Aufgabenstellungen.",
+      "cultural_effects": [
+        "Hoher Leistungs- und Ergebnisdruck durch Kundenerwartungen.",
+        "Wechselnde Teams und wechselnde Einsatzorte – geringe Planbarkeit.",
+        "Kulturell oft geprägt von Professionalität, Effizienz und analytischer Denkweise.",
+        "Fehlerkultur ist stark ergebnisabhängig – Fehler haben direkten Kundeneinfluss.",
+        "Karrieredenken und Statusbewusstsein oft verbreitet.",
+        "Wenig eigene Produktverantwortung – Umsetzung steht im Vordergrund."
+      ]
+    },
+    {
+      "label": "Produktfirma",
+      "definition": "Unternehmen, das eigene Produkte entwickelt und vertreibt – oft technologiebasiert. Langfristiger Fokus auf Qualität, Kundenbindung und Weiterentwicklung.",
+      "cultural_effects": [
+        "Langfristigere Planung und stabilere Teamstrukturen.",
+        "Fokus auf nachhaltige Qualität, weniger auf kurzfristige Ergebnisse.",
+        "Mehr Zeit für interne Prozesse und kontinuierliches Lernen.",
+        "Fehler werden eher als Teil der Produktentwicklung verstanden.",
+        "Kulturell oft technisch geprägt – lösungsorientiert und methodisch.",
+        "Hohe Identifikation mit dem „eigenen Produkt“ möglich."
+      ]
+    },
+    {
+      "label": "Agentur / Kreativdienstleister",
+      "definition": "Kundennahe, kreative Dienstleistungsunternehmen, die Marketing, Gestaltung oder Kommunikation anbieten. Meist projektbasiert und deadlinegetrieben.",
+      "cultural_effects": [
+        "Hohes Tempo, starker Projektdruck, enge Zeitrahmen.",
+        "Kreativitätsdruck kombiniert mit Dienstleistungsdenken.",
+        "Offene, informelle Kultur, oft emotionalere Teamdynamiken.",
+        "Fehlerkultur schwankt stark – abhängig vom Führungsstil.",
+        "Eigenverantwortung hoch, aber innerhalb starker Kundenerwartungen.",
+        "Teamkohäsion oft wichtig – Events, Interaktion, kreative Energie."
+      ]
+    },
+    {
+      "label": "Plattformanbieter / digitale Infrastruktur",
+      "definition": "Unternehmen, das Plattformen betreibt oder technische Infrastrukturen entwickelt und skaliert. Fokus auf Wachstum, Stabilität und technologische Exzellenz.",
+      "cultural_effects": [
+        "Skalierungsdruck und technischer Anspruch erzeugen Innovationskultur.",
+        "Stabile, technische Teams mit hoher Tool-Orientierung.",
+        "Kommunikation ist oft technisch-präzise und fokussiert.",
+        "Hohe Eigenverantwortung im Engineering – aber auch strukturierte Prozesse.",
+        "Fehlerkultur oft devops-orientiert: fail fast – fix fast.",
+        "Wachstum als zentrales Ziel – Innovation und Tempo wichtig."
+      ]
+    },
+    {
+      "label": "Fertigung / Produktion / Handwerk",
+      "definition": "Physische Produktion von Gütern oder handwerkliche Dienstleistungen mit klarer Prozessorientierung. Struktur und Qualitätssicherung stehen im Vordergrund.",
+      "cultural_effects": [
+        "Starke Prozessorientierung, Qualität und Zuverlässigkeit haben hohe Priorität.",
+        "Fehler werden meist systematisch erfasst und vermieden.",
+        "Hierarchie und Rollenverantwortung sind oft klar definiert.",
+        "Kommunikation kann direkt, aber auch autoritär sein.",
+        "Veränderung erfolgt langsamer – etablierte Routinen dominieren.",
+        "Sinn kann stark mit dem Endprodukt verbunden sein – aber weniger mit gesellschaftlicher Mission."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Branche / Tätigkeitsfeld",
+  "description": "Die Branche beschreibt das wirtschaftliche Umfeld, in dem ein Unternehmen tätig ist – also ob es z. B. in der IT, im Gesundheitswesen oder im Baugewerbe arbeitet. Branchen geben Hinweise auf Innovationsgrad, Regulierungsdichte, Kommunikationsstil und Erwartungshaltung der Kunden. Sie sind öffentlich erkennbar über Firmenprofile, Website, Stellenanzeigen oder Branchenverzeichnisse.",
+  "scale_type": "nominal",
+  "values": [
+    {
+      "label": "IT / Software / Technologie",
+      "definition": "Unternehmen, die digitale Produkte, Plattformen oder Services entwickeln und vertreiben. Häufig stark wachstums- und innovationsgetrieben.",
+      "cultural_effects": [
+        "Hohe Innovationsorientierung und Veränderungsdynamik.",
+        "Eigenverantwortung ist oft stark ausgeprägt, vor allem in Engineering-Teams.",
+        "Fehlerkultur ist tendenziell offen – 'fail fast' wird vielfach akzeptiert.",
+        "Kommunikation meist informell und technisch direkt.",
+        "Teamkultur ist häufig agil und prozessleicht – abhängig vom Tech-Reifegrad."
+      ]
+    },
+    {
+      "label": "Pharma / Medizintechnik / Gesundheit",
+      "definition": "Branche mit hohem gesellschaftlichem Impact und starken regulatorischen Anforderungen. Qualitätssicherung und Sicherheit stehen im Vordergrund.",
+      "cultural_effects": [
+        "Hoher Formalisierungsgrad, dokumentierte Prozesse.",
+        "Fehlerkultur ist vorsichtig – Vermeidung statt Offenheit dominiert.",
+        "Eigenverantwortung besteht, ist aber stark geregelt.",
+        "Kommunikation ist sachlich, risikobewusst, oft interdisziplinär.",
+        "Sinnstiftung durch den Beitrag zur Gesundheit ist häufig stark ausgeprägt."
+      ]
+    },
+    {
+      "label": "Marketing / Werbung / Kommunikation",
+      "definition": "Kreativ- und projektbasierte Dienstleistungsbranche mit hoher Außenwirkung. Hohe Zeitdichte, emotionale Kommunikation.",
+      "cultural_effects": [
+        "Schnelles Arbeiten, oft unter Zeitdruck.",
+        "Kreativität steht im Mittelpunkt, verbunden mit hoher Eigenverantwortung.",
+        "Kommunikation ist direkt, emotional, manchmal chaotisch.",
+        "Fehlerkultur ist oft vom Führungsteam abhängig – kann stark schwanken.",
+        "Teamkultur ist informell, häufig freundschaftlich geprägt."
+      ]
+    },
+    {
+      "label": "Industrie / Maschinenbau / Produktion",
+      "definition": "Klassische Sachgüterproduktion mit starker technischer Tiefe, hohen Qualitätsansprüchen und langfristiger Planung.",
+      "cultural_effects": [
+        "Prozesse sind klar geregelt, Standardisierung ist zentral.",
+        "Fehlerkultur ist risikoavers – Fehler können teuer sein.",
+        "Eigenverantwortung besteht, ist aber oft funktionsgebunden.",
+        "Kommunikation ist sachlich, zielgerichtet, oft konservativ.",
+        "Veränderungen erfolgen eher schrittweise als disruptiv."
+      ]
+    },
+    {
+      "label": "Bildung / Wissenschaft / Soziales",
+      "definition": "Werteorientierter Bereich mit gesellschaftlicher Wirkung. Fokus auf Menschen, Entwicklung, Förderung.",
+      "cultural_effects": [
+        "Sinnstiftung ist stark – Fokus auf individuelle Entwicklung und Gemeinwohl.",
+        "Strukturen sind oft institutionell, Veränderungstempo gering.",
+        "Fehlerkultur variiert – abhängig von Institution und Führung.",
+        "Hierarchie kann formal bestehen, Kommunikation ist aber häufig nahbar.",
+        "Teamarbeit ist zentral – kollektives Engagement steht im Vordergrund."
+      ]
+    },
+    {
+      "label": "Finanzen / Versicherungen / Banken",
+      "definition": "Stark regulierter Bereich mit hohem Anspruch an Genauigkeit, Sicherheit und Professionalität.",
+      "cultural_effects": [
+        "Hohe Regelgebundenheit und Compliance-Orientierung.",
+        "Fehlerkultur ist kontrolliert – Fehlervermeidung dominiert.",
+        "Eigenverantwortung ist auf definierte Entscheidungsräume begrenzt.",
+        "Kommunikationsstil ist professionell, distanziert, statusbewusst.",
+        "Leistungsorientierung und Karrierefokus sind häufig stark ausgeprägt."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Geschäftsmodell",
+  "description": "Das Geschäftsmodell beschreibt, wie ein Unternehmen seine Leistungen erbringt und Umsätze generiert – insbesondere, ob es eher auf kundenbezogene Projekte oder auf skalierbare Produkte fokussiert ist. Daraus ergeben sich wesentliche Unterschiede in Bezug auf Teamdynamik, Planbarkeit, Druck, Verantwortungsstrukturen und Veränderungstempo. Die Ausprägung ist meist durch Selbstbeschreibung, Stellenanzeigen oder Produktseiten öffentlich erkennbar.",
+  "scale_type": "nominal",
+  "values": [
+    {
+      "label": "Projektgeschäft",
+      "definition": "Das Unternehmen arbeitet auftragsbezogen für externe Kunden. Die Leistungen sind meist individuell angepasst, zeitlich begrenzt und ergebnisorientiert.",
+      "cultural_effects": [
+        "Hoher Zeitdruck und wechselnde Aufgabenstellungen.",
+        "Enge Taktung durch Kundentermine – starke Ergebnisorientierung.",
+        "Fehler können direkte Kundenwirkung haben – Fehlerkultur ist vorsichtiger.",
+        "Teamstrukturen sind oft temporär – wechselnde Zusammensetzungen.",
+        "Veränderung ist strukturell verankert – jedes Projekt bringt neue Anforderungen.",
+        "Hoher Anspruch an Anpassungsfähigkeit und Flexibilität."
+      ]
+    },
+    {
+      "label": "Produktgeschäft",
+      "definition": "Das Unternehmen entwickelt, betreibt oder vertreibt eigene Produkte oder Services. Fokus liegt auf Qualität, Stabilität, Weiterentwicklung und Kundennutzen über längere Zeiträume.",
+      "cultural_effects": [
+        "Langfristige Perspektive mit stabileren Teams und Prozessen.",
+        "Fehlerkultur ist oft offener – Iteration und Lernen sind Teil des Produkterfolgs.",
+        "Weniger kurzfristiger Druck – aber hoher Qualitätsanspruch.",
+        "Planung und interne Abstimmung haben höheren Stellenwert als Kundenwünsche.",
+        "Produktverantwortung fördert Identifikation und Ownership im Team.",
+        "Veränderungen erfolgen oft inkrementell – z. B. durch Releases, Updates."
+      ]
+    },
+    {
+      "label": "Mischform",
+      "definition": "Das Unternehmen kombiniert projektbasierte Arbeit mit eigenen Produkten, z. B. durch Individualisierung von Plattformen, begleitende Services oder hybride Modelle.",
+      "cultural_effects": [
+        "Kulturelle Ambivalenz: Spannungsfeld zwischen Agilität und Stabilität.",
+        "Teams müssen zwischen Kundenanforderung und Produktpflege balancieren.",
+        "Fehlerkultur kann uneinheitlich sein – projekt- vs. produktgetrieben.",
+        "Eigenverantwortung ist oft hoch, da Schnittstellen zwischen Bereichen bestehen.",
+        "Kommunikationsstil kann variieren – extern vs. intern.",
+        "Planbarkeit ist herausfordernd – Kultur verlangt hohe Selbstorganisation."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Remote-Option",
+  "description": "Die Remote-Option beschreibt, in welchem Maß das Unternehmen ortsunabhängiges Arbeiten zulässt. Sie beeinflusst das Vertrauen in Mitarbeitende, den Grad der Autonomie, die Flexibilität und die Art der Zusammenarbeit. Die Information ist meist direkt aus Stellenanzeigen, Karriereseiten oder Arbeitgeberbewertungsportalen ersichtlich.",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Keine Remote-Option",
+      "definition": "Mitarbeitende arbeiten vollständig vor Ort. Homeoffice oder ortsunabhängiges Arbeiten ist grundsätzlich nicht vorgesehen.",
+      "cultural_effects": [
+        "Tendenziell stärker kontrollorientierte Führung.",
+        "Weniger gelebte Autonomie im Arbeitsalltag.",
+        "Kommunikation ist physisch präsent und hierarchischer strukturiert.",
+        "Teamkultur ist stark vor Ort-zentriert – räumliche Nähe wird erwartet.",
+        "Wandel in Richtung moderner Arbeitsformen ist meist gering ausgeprägt."
+      ]
+    },
+    {
+      "label": "Teilweise Remote (hybrid)",
+      "definition": "Das Unternehmen ermöglicht ortsunabhängiges Arbeiten an bestimmten Tagen oder in bestimmten Rollen – häufig kombiniert mit Präsenztagen.",
+      "cultural_effects": [
+        "Balance aus Vertrauen und Struktur – kulturell oft flexibel, aber mit Leitlinien.",
+        "Eigenverantwortung wird erwartet, aber mit organisatorischer Einbindung.",
+        "Kommunikation ist teils digitalisiert, teils face-to-face – erfordert Koordinationskompetenz.",
+        "Teamkohäsion hängt stark von Führung und digitaler Kultur ab.",
+        "Anpassungsfähigkeit ist höher als bei reinem Präsenzmodell."
+      ]
+    },
+    {
+      "label": "Remote möglich (vollständig oder weitgehend)",
+      "definition": "Das Unternehmen erlaubt vollständiges ortsunabhängiges Arbeiten – dauerhaft, in fast allen Rollen, teils sogar international.",
+      "cultural_effects": [
+        "Hoher Vertrauensvorschuss gegenüber Mitarbeitenden.",
+        "Starke Autonomie und Eigenverantwortung notwendig.",
+        "Asynchrone Kommunikation ist etabliert – digitale Kollaboration ist Standard.",
+        "Führung muss virtuell stattfinden – Ergebnisorientierung dominiert über Präsenz.",
+        "Teamgefühl muss aktiv gepflegt werden – z. B. durch virtuelle Formate, Retros, Events."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Regulierungsgrad",
+  "description": "Der Regulierungsgrad beschreibt, in welchem Maß die Branche oder das Geschäftsmodell eines Unternehmens gesetzlichen Vorgaben, Normen oder externen Prüfanforderungen unterliegt. Diese Kategorie hat starke Auswirkungen auf die Fehlerkultur, Entscheidungsprozesse und Innovationsgeschwindigkeit. Sie ist oft aus der Branche und den angebotenen Leistungen ableitbar (z. B. Gesundheitswesen, Finanzen, Luftfahrt).",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Niedrig",
+      "definition": "Das Unternehmen ist kaum oder gar nicht von gesetzlichen Vorschriften reguliert. Normen, Standards oder Prüfpflichten spielen im Tagesgeschäft keine dominante Rolle.",
+      "cultural_effects": [
+        "Fehlerkultur ist meist offen und experimentierfreudig.",
+        "Hohe Veränderungsdynamik und Innovationsspielräume.",
+        "Entscheidungen können schnell und ohne formale Absicherung getroffen werden.",
+        "Eigenverantwortung ist hoch – Mitarbeitende dürfen ausprobieren.",
+        "Kultur betont Agilität, Flexibilität und Geschwindigkeit."
+      ]
+    },
+    {
+      "label": "Mittel",
+      "definition": "Das Unternehmen bewegt sich in einem Umfeld mit teils relevanten, aber nicht dominanten Regulierungen. Es müssen gewisse Standards beachtet werden, aber nicht in jedem Prozessschritt.",
+      "cultural_effects": [
+        "Fehlerkultur ist abhängig vom Bereich – in Teilen offen, in anderen vorsichtig.",
+        "Innovationen sind möglich, aber müssen abgestimmt werden.",
+        "Entscheidungen erfolgen strukturiert, aber nicht zwingend bürokratisch.",
+        "Flexibilität ist gegeben – mit Augenmaß und Risikobewusstsein.",
+        "Eigenverantwortung ist vorhanden, aber oft eingerahmt von Prozessen."
+      ]
+    },
+    {
+      "label": "Hoch",
+      "definition": "Das Unternehmen ist stark reguliert, z. B. durch gesetzliche Vorschriften, Compliance-Richtlinien, internationale Standards oder Sicherheitsanforderungen. Fehler können rechtliche oder sicherheitsrelevante Konsequenzen haben.",
+      "cultural_effects": [
+        "Fehlerkultur ist risikoavers – Vermeidung steht im Vordergrund.",
+        "Veränderungen erfolgen nur nach umfangreicher Prüfung und Genehmigung.",
+        "Entscheidungswege sind formalisiert, dokumentiert und oft hierarchisch.",
+        "Eigenverantwortung ist begrenzt durch externe Vorgaben und Auditierbarkeit.",
+        "Kultur betont Sicherheit, Qualität und Prozessdisziplin."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Technologiebezug",
+  "description": "Der Technologiebezug beschreibt, in welchem Maß das Unternehmen digitale Technologien, moderne Tools und IT-basierte Prozesse in seinen Leistungen und seiner Arbeitsweise einsetzt. Ein hoher Technologiebezug geht oft mit Innovationsfreude, Automatisierung, Datenorientierung und neuer Arbeitskultur einher. Diese Kategorie kann durch Stellenanzeigen, Technologiestack, Produktbeschreibungen oder Tools auf der Website erkannt werden.",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Gering",
+      "definition": "Technologie wird vorwiegend für Basisfunktionen genutzt (z. B. E-Mail, Office, Website), digitale Tools und automatisierte Prozesse sind kaum integriert.",
+      "cultural_effects": [
+        "Veränderungen erfolgen langsam – Digitalisierung ist kein Kernfokus.",
+        "Wenig Tool-Affinität im Team – neue Arbeitsmethoden treffen oft auf Skepsis.",
+        "Kommunikation erfolgt primär analog oder über einfache Kanäle.",
+        "Eigenverantwortung ist tendenziell stärker kontrolliert.",
+        "Wenig Innovationsdynamik – Prozesse sind bewährt, nicht experimentell."
+      ]
+    },
+    {
+      "label": "Mittel",
+      "definition": "Technologie ist ein relevanter Bestandteil der Arbeit, moderne Tools werden eingesetzt, aber nicht zentral für Wertschöpfung oder Kultur.",
+      "cultural_effects": [
+        "Team ist offen für digitale Hilfsmittel, aber nicht technologiegetrieben.",
+        "Veränderungen durch Technologie erfolgen schrittweise.",
+        "Tool-Kompetenz wird erwartet, aber nicht als Differenzierungsmerkmal verstanden.",
+        "Eigenverantwortung hängt vom Toolverständnis ab – Automatisierung teils genutzt.",
+        "Innovation wird gefördert, aber in stabilen Rahmenbedingungen."
+      ]
+    },
+    {
+      "label": "Hoch",
+      "definition": "Technologie ist zentraler Bestandteil des Geschäftsmodells oder der Arbeitsweise. Das Unternehmen nutzt moderne Tools intensiv, entwickelt evtl. sogar eigene Softwarelösungen.",
+      "cultural_effects": [
+        "Hohe Veränderungsdynamik – neue Tools und Methoden werden aktiv eingeführt.",
+        "Arbeiten in selbstorganisierten, digital unterstützten Teams.",
+        "Eigenverantwortung ist hoch, da viele Prozesse automatisiert und verteilt ablaufen.",
+        "Fehlerkultur ist offen – Testen und Lernen sind Teil des Prozesses.",
+        "Innovationsorientierung und Experimentierfreude prägen die Kultur.",
+        "Remote-Arbeit ist technisch problemlos integrierbar – hybride Arbeitskultur ist üblich."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Sprache auf Website (formell/informell)",
+  "description": "Die Sprache auf der Website – insbesondere auf der Karriereseite und in Stellenanzeigen – gibt Hinweise auf den Kommunikationsstil und das Kulturverständnis eines Unternehmens. Der Gebrauch von Du oder Sie, die Tonalität, die Bildsprache und der Textstil vermitteln deutlich, ob das Unternehmen formell, locker, distanziert oder offen kommuniziert. Diese Kategorie ist sehr gut öffentlich beobachtbar.",
+  "scale_type": "nominal",
+  "values": [
+    {
+      "label": "Formell",
+      "definition": "Die Website verwendet eine höfliche, sachliche und distanzierte Sprache, meist mit Sie-Ansprache, korrekter Struktur und neutralem Tonfall.",
+      "cultural_effects": [
+        "Kultur betont Professionalität, Status und Distanz.",
+        "Hierarchie ist klarer definiert, Kommunikation erfolgt über geregelte Wege.",
+        "Feedbackkultur ist tendenziell vorsichtiger und formalisiert.",
+        "Teaminteraktion ist respektvoll, aber weniger freundschaftlich.",
+        "Entscheidungen werden häufiger top-down kommuniziert."
+      ]
+    },
+    {
+      "label": "Gemischt / neutral",
+      "definition": "Die Website verwendet eine ausgewogene Sprache – weder explizit locker noch betont förmlich. Es wird je nach Zielgruppe zwischen Du und Sie variiert.",
+      "cultural_effects": [
+        "Kultur ist pragmatisch – es gibt formale Elemente, aber auch persönliche Freiräume.",
+        "Hierarchie wird anerkannt, aber nicht strikt gelebt.",
+        "Kommunikation ist sachlich, aber aufgeschlossen.",
+        "Feedback kann offen stattfinden, braucht jedoch teils den richtigen Rahmen.",
+        "Teamdynamik hängt stark von Bereich und Führungskraft ab."
+      ]
+    },
+    {
+      "label": "Informell",
+      "definition": "Die Website spricht Leser direkt mit Du an, verwendet eine emotionale, kreative oder humorvolle Sprache und betont Nähe, Persönlichkeit und Augenhöhe.",
+      "cultural_effects": [
+        "Kommunikation ist offen, nahbar und auf Augenhöhe.",
+        "Hierarchien sind flach oder werden kulturell relativiert.",
+        "Teamkultur ist persönlich, freundschaftlich und oft emotionaler geprägt.",
+        "Feedbackkultur ist direkter, spontaner und oft kontinuierlich.",
+        "Führung agiert eher coachend als kontrollierend.",
+        "Fehlerkultur kann explorativer sein – es darf ausprobiert werden."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "Innovationssprache",
+  "description": "Die Innovationssprache beschreibt, wie häufig und intensiv ein Unternehmen in seiner Außendarstellung Begriffe und Konzepte aus dem Innovationskontext verwendet – z. B. agil, disruptiv, experimentell, kreativ, crossfunktional. Die Häufigkeit und Art dieser Begriffe geben Hinweise auf die gelebte Innovationskultur, Veränderungsdynamik und Offenheit gegenüber Fehlern und Neuem. Die Analyse erfolgt durch Textbeobachtung (Karriereseite, Vision, Blog, Stellenanzeigen).",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Wenig / traditionell",
+      "definition": "Es werden kaum Innovationsbegriffe verwendet. Die Sprache ist eher stabilitätsorientiert, klassisch oder technisch-neutral.",
+      "cultural_effects": [
+        "Kultur betont Verlässlichkeit, Planung und Routine.",
+        "Veränderungen erfolgen langsam und kontrolliert.",
+        "Fehler werden vermieden – geringe Toleranz für Risiko.",
+        "Experimentieren ist nicht zentraler Bestandteil der Arbeitsweise.",
+        "Innovation wird als Ausnahme, nicht als Prinzip verstanden."
+      ]
+    },
+    {
+      "label": "Moderat / unterstützend",
+      "definition": "Innovationsbegriffe tauchen punktuell auf – z. B. 'wir arbeiten agil', 'wir fördern Ideen'. Sie werden als unterstützende Elemente der Arbeitsweise erwähnt.",
+      "cultural_effects": [
+        "Veränderung ist gewünscht, aber strukturell eingebettet.",
+        "Innovationen erfolgen in definierten Bereichen oder Teams.",
+        "Fehlerkultur ist offen, aber nicht explizit explorativ.",
+        "Ideen werden erfasst und geprüft – systematische Weiterentwicklung ist vorgesehen.",
+        "Agilität wird als Methode, nicht als Haltung gelebt."
+      ]
+    },
+    {
+      "label": "Stark ausgeprägt / explorativ",
+      "definition": "Innovationssprache ist dominierend. Begriffe wie agil, disruptiv, crossfunktional, New Work, iterativ, Innovation Lab, MVP, Design Thinking usw. sind zentral.",
+      "cultural_effects": [
+        "Kultur ist stark auf Veränderung, Lernen und Geschwindigkeit ausgerichtet.",
+        "Fehler werden als notwendiger Teil des Innovationsprozesses betrachtet.",
+        "Mitarbeitende sind aktiv in kreative Prozesse eingebunden.",
+        "Hierarchien werden bewusst durch Netzwerkdenken ersetzt oder ergänzt.",
+        "Ideen werden schnell ausprobiert, z. B. durch Prototypen oder Experimente.",
+        "Innovation ist nicht nur Methode, sondern Teil der Identität."
+      ]
+    }
+  ]
+}
+
+{
+  "category": "CSR / Purpose-Kommunikation",
+  "description": "Diese Kategorie beschreibt, in welchem Maß ein Unternehmen gesellschaftliche, ökologische oder wertebezogene Anliegen in seiner Außenkommunikation betont. Dazu zählen Purpose-Statements, Nachhaltigkeitsinitiativen, ESG-Berichte oder Aussagen über gesellschaftlichen Beitrag und Werteorientierung. Die Stärke und Glaubwürdigkeit dieser Aussagen geben Hinweise auf die Sinnkultur, Mitarbeiteridentifikation und Wertebasis. Quellen: Vision/Mission, 'Über uns'-Seite, Nachhaltigkeitsberichte, Karriereseite.",
+  "scale_type": "ordinal",
+  "values": [
+    {
+      "label": "Gering / nicht vorhanden",
+      "definition": "Das Unternehmen äußert sich nicht oder nur beiläufig zu gesellschaftlicher Verantwortung, Nachhaltigkeit oder Sinn. Fokus liegt auf wirtschaftlicher Leistung, Technologie oder Effizienz.",
+      "cultural_effects": [
+        "Identifikation der Mitarbeitenden erfolgt eher über Rolle oder Produkt – weniger über Werte.",
+        "Zielorientierung ist pragmatisch, nicht idealistisch.",
+        "Sinnstiftung spielt intern kaum eine Rolle – Kultur wirkt zweckbezogen.",
+        "Wertethemen sind nicht Bestandteil des Alltags oder Employer Brandings.",
+        "Unternehmenskultur orientiert sich primär an Leistung und Struktur."
+      ]
+    },
+    {
+      "label": "Moderat / beiläufig integriert",
+      "definition": "Das Unternehmen benennt gewisse CSR- oder Impact-Aspekte, z. B. Nachhaltigkeit, Diversität oder soziale Projekte. Diese sind jedoch nicht zentral im Marken- oder Kulturverständnis verankert.",
+      "cultural_effects": [
+        "Werte und Sinnaspekte sind punktuell präsent, aber nicht dominierend.",
+        "Mitarbeitende können sich mit Aspekten der Kultur identifizieren – häufig abhängig vom Bereich.",
+        "CSR wird unterstützt, aber nicht als zentraler Bestandteil der Identität gelebt.",
+        "Wertethemen dienen auch zur Attraktivität im Recruiting.",
+        "Kultur ist teils sinnorientiert, teils funktionsbezogen."
+      ]
+    },
+    {
+      "label": "Stark ausgeprägt / kulturell verankert",
+      "definition": "Sinn, Werte und gesellschaftlicher Beitrag sind zentraler Bestandteil der Selbstbeschreibung des Unternehmens. Sie stehen im Mittelpunkt von Vision, Kommunikation und Employer Branding.",

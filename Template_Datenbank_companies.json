@@ -1,0 +1,17 @@
+{
+  "id": "Eindeutige ID zu einem Unternehmen",
+  "name": "Name des Unternehmens",
+  "locations": "Standorte der Unternehmen",
+  "categories": {
+    "Unternehmensgröße": "Anzahl Mitarbeiter",
+    "Unternehmenstyp": "Der Unternehmenstyp beschreibt die strukturelle und kulturelle Grundform eines Unternehmens",
+    "Firmentyp / Tätigkeit": "Der Firmentyp beschreibt die operative Ausrichtung eines Unternehmens",
+    "Branche / Tätigkeitsfeld": "Die Branche beschreibt das wirtschaftliche Umfeld eines Unternehmens",
+    "Geschäftsmodell": "Das Geschäftsmodell beschreibt, ob ein Unternehmen überwiegend auftragsbasiert (projektbezogen), produktorientiert oder gemischt arbeitet.",
+    "Remote-Option": "Diese Kategorie beschreibt, in welchem Ausmaß Mitarbeitende ihre Arbeit ortsunabhängig erledigen können.",
+    "Innovationssprache": "Diese Kategorie beschreibt, wie stark ein Unternehmen in seiner Außendarstellung Begriffe aus dem Innovationskontext verwendet",
+    "CSR / Purpose-Kommunikation": "Diese Kategorie beschreibt, in welchem Maß ein Unternehmen gesellschaftliche, ökologische oder werteorientierte Themen in seiner Außendarstellung betont."
+  },
+  "company description short": "Kurze, prägnante Beschreibung des Unternehmens mit Fokus auf Branche, Hauptprodukte oder Services und Kundensegment. Ziel ist es, Benutzern innerhalb weniger Sekunden ein klares Bild vom Tätigkeitsfeld des Unternehmens zu geben und ihm die Informationen zu geben, die ein potenzieller Bewerber als erstes zu einem Unternehmen erfahren möchte.",
+  "culture description": "Die Culture Description beschreibt ausschließlich kulturelle Wirkungen, die sich direkt aus der Klassifizierung des Unternehmens gemäß Regelwerk ableiten lassen. Sie bildet typische Merkmale der Unternehmenskultur ab – darunter: Führung & Struktur, Fehlerkultur & Lernhaltung, Sinnorientierung & Werte, Veränderungsbereitschaft, Kommunikationsstil, Eigenverantwortung & Autonomie, Innovationskultur, Prozessorientierung & Stabilität, Teamkultur, Arbeitsweise & Tempo sowie Leistungsorientierung & Druck. Jeder Satz muss mindestens auf eine konkrete kategorische Ausprägung zurückzuführen sein. Dabei dürfen keine kulturellen Effekte ausgelassen werden, die laut Regelwerk aus der Klassifizierung ableitbar sind – die Beschreibung soll vollständig und fundiert sein. Ergänzungen sind nur zulässig, wenn kulturelle Eigenschaften durch öffentlich zugängliche Quellen belegt werden können (z. B. über die Unternehmenswebsite, Blogbeiträge oder Stellenanzeigen). Subjektive Annahmen, übergeneralisierende Formulierungen oder spekulative Aussagen (z. B. über Rituale, Teamgefühle oder Führungsstile) sind nicht Bestandteil der Culture Description. Allgemeine Informationen, Produktbeschreibungen, Teamgrößen oder Beispiele ohne klaren kulturellen Bezug gehören nicht in diesen Abschnitt."
+}

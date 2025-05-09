@@ -2,6 +2,7 @@
   "id": "0",
   "name": "Beispiel AG",
   "locations": "Hamburg",
+  "website": "www.xy.de",
   "categories": {
     "Unternehmensgröße": "20 Mitarbeiter",
     "Unternehmenstyp": "Startup",

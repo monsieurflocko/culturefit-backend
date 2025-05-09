@@ -2,6 +2,7 @@
   "id": "Eindeutige ID zu einem Unternehmen",
   "name": "Name des Unternehmens",
   "locations": "Standorte der Unternehmen",
+  "Website": "Der Link zur Webseite des Unternehmens"
   "categories": {
     "Unternehmensgröße": "Anzahl Mitarbeiter",
     "Unternehmenstyp": "Der Unternehmenstyp beschreibt die strukturelle und kulturelle Grundform eines Unternehmens",

@@ -1,0 +1,434 @@
+{
+  "id": "1",
+  "name": "Syngenio AG",
+  "locations": "München, Hamburg, Köln, Bonn, Frankfurt am Main, Stuttgart",
+  "Website": "https://syngenio.com",
+  "Unternehmensgröße": "mittel (50-499 Mitarbeiter)",
+  "Unternehmenstyp": "KMU",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "2",
+  "name": "Siemens AG",
+  "locations": "München, Berlin (Hauptsitze); weltweit in über 190 Ländern",
+  "Website": "https://www.siemens.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Industrie / Maschinenbau / Produktion",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "3",
+  "name": "SAP SE",
+  "locations": "Walldorf (Hauptsitz), weltweit in über 130 Ländern",
+  "Website": "https://www.sap.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "4",
+  "name": "Deutsche Bahn AG",
+  "locations": "Berlin (Hauptsitz), bundesweit und international tätig",
+  "Website": "https://www.deutschebahn.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Öffentliche Einrichtung",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Bau / Logistik / Versorgung",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "5",
+  "name": "BioNTech SE",
+  "locations": "Mainz (Hauptsitz), weltweit an über 20 Standorten",
+  "Website": "https://www.biontech.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Pharma / Medizintechnik / Gesundheit",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "6",
+  "name": "Helmholtz Zentrum München – Deutsches Forschungszentrum für Gesundheit und Umwelt (GmbH)",
+  "locations": "Neuherberg bei München (Hauptsitz), weitere Standorte in München, Augsburg, Tübingen, Hannover, Dresden, Leipzig",
+  "Website": "https://www.helmholtz-munich.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Öffentliche Einrichtung",
+  "Firmentyp / Tätigkeit": "Forschungseinrichtung",
+  "Branche / Tätigkeitsfeld": "Bildung / Wissenschaft / Soziales",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "7",
+  "name": "Commerzbank AG",
+  "locations": "Frankfurt am Main (Hauptsitz), weltweit in fast 40 Ländern",
+  "Website": "https://www.commerzbank.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Bank / Finanzdienstleister",
+  "Branche / Tätigkeitsfeld": "Finanzen / Versicherungen / Banken",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "8",
+  "name": "Otto GmbH & Co. KGaA",
+  "locations": "Hamburg (Hauptsitz), weltweit in über 30 Ländern",
+  "Website": "https://www.ottogroup.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Einzelhandel / E-Commerce / Logistik",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "9",
+  "name": "Capgemini Deutschland GmbH",
+  "locations": "Berlin (Hauptsitz), weitere Standorte in Deutschland",
+  "Website": "https://www.capgemini.com/de-de/",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "10",
+  "name": "Rheinmetall AG",
+  "locations": "Düsseldorf (Hauptsitz), weltweit in 28 Ländern",
+  "Website": "https://www.rheinmetall.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Fertigung / Produktion / Handwerk",
+  "Branche / Tätigkeitsfeld": "Industrie / Maschinenbau / Produktion",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "11",
+  "name": "TIER Mobility SE",
+  "locations": "Berlin (Hauptsitz), aktiv in über 150 Städten in Europa",
+  "Website": "https://www.tier.app",
+  "Unternehmensgröße": "mittel (50–499 Mitarbeiter)",
+  "Unternehmenstyp": "Startup",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Mobilität / Logistik / Technologie",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "11",
+  "name": "betterplace.org gGmbH",
+  "locations": "Berlin (Hauptsitz)",
+  "Website": "https://www.betterplace.org",
+  "Unternehmensgröße": "klein (1–49 Mitarbeiter)",
+  "Unternehmenstyp": "NGO",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Bildung / Wissenschaft / Soziales",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "12",
+  "name": "Ada Health GmbH",
+  "locations": "Berlin (Hauptsitz), München, London, Toronto, New York City",
+  "Website": "https://ada.com",
+  "Unternehmensgröße": "mittel (50–499 Mitarbeiter)",
+  "Unternehmenstyp": "Startup",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Pharma / Medizintechnik / Gesundheit",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "13",
+  "name": "Phoenix Contact GmbH & Co. KG",
+  "locations": "Blomberg (Hauptsitz), Bad Pyrmont, Berlin, Herrenberg, Niederdorf, Velbert, Villingen-Schwenningen; weltweit in über 100 Ländern",
+  "Website": "https://www.phoenixcontact.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Fertigung / Produktion / Handwerk",
+  "Branche / Tätigkeitsfeld": "Industrie / Maschinenbau / Produktion",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "14",
+  "name": "Deloitte Deutschland GmbH",
+  "locations": "München (Hauptsitz), weitere Standorte in Berlin, Düsseldorf, Frankfurt am Main, Hamburg, Stuttgart, Köln, Leipzig, Hannover, Nürnberg, Mannheim, Bremen, Dresden, Essen, Karlsruhe, Münster",
+  "Website": "https://www.deloitte.com/de/de.html",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "Finanzen / Versicherungen / Banken",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "16",
+  "name": "MONSOON Digital Marketing",
+  "locations": "Berlin (Hauptsitz), Poznań (Polen)",
+  "Website": "https://monsoon.agency",
+  "Unternehmensgröße": "klein (1–49 Mitarbeiter)",
+  "Unternehmenstyp": "Startup",
+  "Firmentyp / Tätigkeit": "Agentur / Kreativdienstleister",
+  "Branche / Tätigkeitsfeld": "Marketing / Werbung / Kommunikation",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "17",
+  "name": "NXI GmbH & Co. KG",
+  "locations": "Hamburg (Hauptsitz)",
+  "Website": "https://nxiglobal.com",
+  "Unternehmensgröße": "klein (1–49 Mitarbeiter)",
+  "Unternehmenstyp": "KMU",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "18",
+  "name": "GoodMills Deutschland GmbH",
+  "locations": "Hamburg (Hauptsitz), Berlin, Mannheim, Frankfurt am Main, Krefeld, Ergolding, Hamburg-Wilhelmsburg",
+  "Website": "https://www.goodmills.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Fertigung / Produktion / Handwerk",
+  "Branche / Tätigkeitsfeld": "Lebensmittelindustrie",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "19",
+  "name": "Funk Gruppe GmbH",
+  "locations": "Hamburg (Hauptsitz), 37 Standorte weltweit",
+  "Website": "https://www.funk-gruppe.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "Finanzen / Versicherungen / Banken",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "20",
+  "name": "WEINMANN Emergency Medical Technology GmbH + Co. KG",
+  "locations": "Hamburg (Hauptsitz), Henstedt-Ulzburg (Produktion, Logistik, Service); internationale Niederlassungen in Atlanta, Dubai, Madrid, Paris, Shanghai, Singapur",
+  "Website": "https://www.weinmann-emergency.com",
+  "Unternehmensgröße": "mittel (50–499 Mitarbeiter)",
+  "Unternehmenstyp": "KMU",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Pharma / Medizintechnik / Gesundheit",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "21",
+  "name": "altona Diagnostics GmbH",
+  "locations": "Hamburg (Hauptsitz), internationale Präsenz über Vertriebspartner",
+  "Website": "https://www.altona-diagnostics.com",
+  "Unternehmensgröße": "mittel (50–499 Mitarbeiter)",
+  "Unternehmenstyp": "KMU",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Pharma / Medizintechnik / Gesundheit",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "22",
+  "name": "1KOMMA5° GmbH",
+  "locations": "Hamburg (Hauptsitz), über 80 Standorte in Deutschland, Schweden, Finnland, Dänemark, Spanien, Niederlande, Australien",
+  "Website": "https://1komma5.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Energie / Erneuerbare Energien / Technologie",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "23",
+  "name": "Beiersdorf AG",
+  "locations": "Hamburg (Hauptsitz), weltweit über 170 Tochtergesellschaften",
+  "Website": "https://www.beiersdorf.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "Konsumgüter / Haut- und Körperpflege",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "24",
+  "name": "Airbus Operations GmbH",
+  "locations": "Hamburg-Finkenwerder (Hauptsitz), Bremen, Stade, Buxtehude, Nordenham, Varel, Augsburg",
+  "Website": "https://www.airbus.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Fertigung / Produktion / Handwerk",
+  "Branche / Tätigkeitsfeld": "Luft- und Raumfahrttechnik",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "25",
+  "name": "EDEKA ZENTRALE Stiftung & Co. KG",
+  "locations": "Hamburg (Hauptsitz)",
+  "Website": "https://www.edeka.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Genossenschaft / Sozialwirtschaft",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Einzelhandel / Lebensmittel",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "26",
+  "name": "Implisense GmbH",
+  "locations": "Berlin (Hauptsitz)",
+  "Website": "https://implisense.com",
+  "Unternehmensgröße": "klein (1–49 Mitarbeiter)",
+  "Unternehmenstyp": "Startup",
+  "Firmentyp / Tätigkeit": "Produktfirma",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "27",
+  "name": "Tagueri AG",
+  "locations": "Hamburg (Hauptsitz), Berlin, Wolfsburg, Köln, Stuttgart, München, Ingolstadt, Donauwörth, Osnabrück, Friedrichshafen, Kiel, Wilhelmshaven, Manching, Laupheim, Nordholz",
+  "Website": "https://www.tagueri.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Kapitalgesellschaft (AG)",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "28",
+  "name": "team neusta GmbH",
+  "locations": "Bremen (Hauptsitz), Hamburg, Hannover, Osnabrück, Leer, Berlin, München, Köln, Friedrichshafen, Dornbirn, Lachen, Wien, Sokolov, Bydgoszcz",
+  "Website": "https://www.team-neusta.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Kapitalgesellschaft (AG)",
+  "Firmentyp / Tätigkeit": "Beratung",
+  "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+  "Geschäftsmodell": "Projektgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "29",
+  "name": "enercity Contracting Nord GmbH",
+  "locations": "Hamburg (Hauptsitz), Hannover, Bremen",
+  "Website": "https://www.enercity-contracting.de",
+  "Unternehmensgröße": "mittel (50–499 Mitarbeiter)",
+  "Unternehmenstyp": "Kapitalgesellschaft (GmbH)",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Energie / Erneuerbare Energien / Technologie",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Teilweise Remote",
+  "Innovationssprache": "Moderat / unterstützend",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}
+{
+  "id": "30",
+  "name": "Generali Deutschland AG",
+  "locations": "München (Hauptsitz), Köln, Hamburg, Aachen, Berlin, bundesweit",
+  "Website": "https://www.generali.de",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Konzern",
+  "Firmentyp / Tätigkeit": "Versicherung",
+  "Branche / Tätigkeitsfeld": "Finanzen / Versicherungen / Banken",
+  "Geschäftsmodell": "Produktgeschäft",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Stark ausgeprägt / kulturell verankert"
+}
+{
+  "id": "31",
+  "name": "MILES Mobility GmbH",
+  "locations": "Berlin (Hauptsitz), aktiv in 12 deutschen Städten (u.a. Hamburg, Köln, München, Düsseldorf, Frankfurt, Stuttgart, Augsburg, Wuppertal, Solingen, Duisburg, Potsdam)",
+  "Website": "https://miles-mobility.com",
+  "Unternehmensgröße": "groß (500+ Mitarbeiter)",
+  "Unternehmenstyp": "Startup",
+  "Firmentyp / Tätigkeit": "Plattformanbieter / digitale Infrastruktur",
+  "Branche / Tätigkeitsfeld": "Mobilität / Carsharing / Technologie",
+  "Geschäftsmodell": "Mischform",
+  "Remote-Option": "Remote möglich (vollständig oder weitgehend)",
+  "Innovationssprache": "Stark ausgeprägt / explorativ",
+  "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+}

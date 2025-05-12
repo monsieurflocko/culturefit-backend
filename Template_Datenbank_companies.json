@@ -1,17 +1,17 @@
 {
-  "id": "Eindeutige ID zu einem Unternehmen",
-  "name": "Name des Unternehmens",
-  "locations": "Standorte der Unternehmen",
-  "Website": "Der Link zur Webseite des Unternehmens"
+  "id": "Eindeutige ID zu einem Unternehmen, z.B.: 1, 2, 3, ...",
+  "name": "Name des Unternehmens, z.B. Syngenio AG, Siemens AG, ...",
+  "locations": "Standorte der Unternehmen, z.B. Berlin, München, Stuttgart, ...",
+  "Website": "Der Link zur Webseite des Unternehmens, Z.B. https://syngenio.com, ..."
   "categories": {
-    "Unternehmensgröße": "Anzahl Mitarbeiter",
-    "Unternehmenstyp": "Der Unternehmenstyp beschreibt die strukturelle und kulturelle Grundform eines Unternehmens",
-    "Firmentyp / Tätigkeit": "Der Firmentyp beschreibt die operative Ausrichtung eines Unternehmens",
-    "Branche / Tätigkeitsfeld": "Die Branche beschreibt das wirtschaftliche Umfeld eines Unternehmens",
-    "Geschäftsmodell": "Das Geschäftsmodell beschreibt, ob ein Unternehmen überwiegend auftragsbasiert (projektbezogen), produktorientiert oder gemischt arbeitet.",
-    "Remote-Option": "Diese Kategorie beschreibt, in welchem Ausmaß Mitarbeitende ihre Arbeit ortsunabhängig erledigen können.",
-    "Innovationssprache": "Diese Kategorie beschreibt, wie stark ein Unternehmen in seiner Außendarstellung Begriffe aus dem Innovationskontext verwendet",
-    "CSR / Purpose-Kommunikation": "Diese Kategorie beschreibt, in welchem Maß ein Unternehmen gesellschaftliche, ökologische oder werteorientierte Themen in seiner Außendarstellung betont."
+    "Unternehmensgröße": "Anzahl Mitarbeiter, z.B. klein (1-49 Mitarbeiter), mittel (50-499 Mitarbeiter), groß (500+ Mitarbeiter)",
+    "Unternehmenstyp": "Der Unternehmenstyp beschreibt die strukturelle und kulturelle Grundform eines Unternehmens, z.B. Startup, KMU, Konzern, NGO, Öffentliche Einrichtung, Genossenschaft / Sozialwirtschaft,...",
+    "Firmentyp / Tätigkeit": "Der Firmentyp beschreibt die operative Ausrichtung eines Unternehmens, z.B. Beratung, Produktfirma, Agentur / Kreativdienstleister, Plattformanbieter / digitale Infrastruktur, Fertigung / Produktion / Handwerk",
+    "Branche / Tätigkeitsfeld": "Die Branche beschreibt das wirtschaftliche Umfeld eines Unternehmens, z.B., IT / Software / Technologie, Pharma / Medizintechnik / Gesundheit, Marketing / Werbung / Kommunikation, Industrie / Maschinenbau / Produktion, Bildung / Wissenschaft / Soziales, Finanzen / Versicherungen / Banken, Bau / Logistik / Versorgung, ...",
+    "Geschäftsmodell": "Das Geschäftsmodell beschreibt, ob ein Unternehmen überwiegend auftragsbasiert (projektbezogen), produktorientiert oder gemischt arbeitet z.B., Projektgeschäft, Produktgeschäft, Mischform,...",
+    "Remote-Option": "Diese Kategorie beschreibt, in welchem Ausmaß Mitarbeitende ihre Arbeit ortsunabhängig erledigen können, z.B. Keine Remote-Option, Teilweise Remote, Remote möglich (vollständig oder weitgehend)",
+    "Innovationssprache": "Diese Kategorie beschreibt, wie stark ein Unternehmen in seiner Außendarstellung Begriffe aus dem Innovationskontext verwendet, z.B. Wenig / traditionell, Moderat / unterstützend, Stark ausgeprägt / explorativ",
+    "CSR / Purpose-Kommunikation": "Diese Kategorie beschreibt, in welchem Maß ein Unternehmen gesellschaftliche, ökologische oder werteorientierte Themen in seiner Außendarstellung betont, z.B. Gering / nicht vorhanden, Moderat / beiläufig integriert, Stark ausgeprägt / kulturell verankert"
   },
   "company description short": "Kurze, prägnante Beschreibung des Unternehmens mit Fokus auf Branche, Hauptprodukte oder Services und Kundensegment. Ziel ist es, Benutzern innerhalb weniger Sekunden ein klares Bild vom Tätigkeitsfeld des Unternehmens zu geben und ihm die Informationen zu geben, die ein potenzieller Bewerber als erstes zu einem Unternehmen erfahren möchte.",
   "culture description": "Die Culture Description beschreibt ausschließlich kulturelle Wirkungen, die sich direkt aus der Klassifizierung des Unternehmens gemäß Regelwerk ableiten lassen. Sie bildet typische Merkmale der Unternehmenskultur ab – darunter: Führung & Struktur, Fehlerkultur & Lernhaltung, Sinnorientierung & Werte, Veränderungsbereitschaft, Kommunikationsstil, Eigenverantwortung & Autonomie, Innovationskultur, Prozessorientierung & Stabilität, Teamkultur, Arbeitsweise & Tempo sowie Leistungsorientierung & Druck. Jeder Satz muss mindestens auf eine konkrete kategorische Ausprägung zurückzuführen sein. Dabei dürfen keine kulturellen Effekte ausgelassen werden, die laut Regelwerk aus der Klassifizierung ableitbar sind – die Beschreibung soll vollständig und fundiert sein. Ergänzungen sind nur zulässig, wenn kulturelle Eigenschaften durch öffentlich zugängliche Quellen belegt werden können (z. B. über die Unternehmenswebsite, Blogbeiträge oder Stellenanzeigen). Subjektive Annahmen, übergeneralisierende Formulierungen oder spekulative Aussagen (z. B. über Rituale, Teamgefühle oder Führungsstile) sind nicht Bestandteil der Culture Description. Allgemeine Informationen, Produktbeschreibungen, Teamgrößen oder Beispiele ohne klaren kulturellen Bezug gehören nicht in diesen Abschnitt."

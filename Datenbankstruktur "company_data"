@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "name": "Syngenio AG",
+  "website": "https://syngenio.com",
+  "website_jobs": "https://syngenio.com/karriere",
+  "locations": ["München", "Bonn", "Hamburg", "Frankfurt"],
+  "sources": [
+    "Website: https://syngenio.com",
+    "Karriereseite: https://syngenio.com/karriere",
+    "LinkedIn",
+    "Kununu"
+  ],
+  "last_updated": "2025-06-04",
+  "categories": {
+    "Unternehmensgröße": 150,
+    "Unternehmenstyp": "KMU",
+    "Firmentyp / Tätigkeit": "Beratung",
+    "Branche / Tätigkeitsfeld": "IT / Software / Technologie",
+    "Geschäftsmodell": "Projektgeschäft",
+    "Remote-Option": "Teilweise Remote",
+    "Innovationssprache": "Moderat / unterstützend",
+    "CSR / Purpose-Kommunikation": "Moderat / beiläufig integriert"
+  },
+  "description_long": "Die Syngenio AG ist ein mittelständisches Beratungsunternehmen mit dem Schwerpunkt auf innovativen Finanztechnologien und digitalen Infrastrukturen. Mit rund 150 Mitarbeitenden an mehreren Standorten in Deutschland unterstützt Syngenio Unternehmen dabei, maßgeschneiderte IT-Lösungen zu entwickeln, die sich an aktuellen technologischen Entwicklungen und branchenspezifischen Anforderungen orientieren. Das Leistungsportfolio reicht von IT-Strategieberatung über Softwareentwicklung bis hin zur Implementierung von Payment-Lösungen und digitalen Plattformen. Die Organisation ist agil und projektorientiert aufgestellt, mit einem starken Fokus auf Kundenorientierung und individuelle Lösungskompetenz. Der Beratungsansatz basiert auf einer engen Verzahnung zwischen technologischem Know-how und betriebswirtschaftlichem Verständnis, was insbesondere in komplexen Digitalisierungsprojekten zum Tragen kommt. Die Mitarbeitenden profitieren von einer offenen Unternehmenskultur mit flachen Hierarchien und einer konstruktiven Fehlerkultur. Weiterbildung, Innovationsförderung und eigenverantwortliches Arbeiten sind fest in der Arbeitsweise verankert. Die strategische Ausrichtung von Syngenio liegt auf nachhaltigem Wachstum und der Entwicklung zukunftsorientierter Lösungen in einem sich wandelnden digitalen Ökosystem.",
+  "description_short": "Beratungshaus für digitale Finanztechnologien und IT-Lösungen – tätig für Banken, FinTechs und Konzerne.",
+  "culture_long": "Die Unternehmenskultur der Syngenio AG ist geprägt durch ein ausgewogenes Verhältnis von Struktur und Flexibilität, wie es für mittelgroße Unternehmen typisch ist. Entscheidungen erfolgen sowohl zentralisiert als auch dezentral, was Nähe zur Führung ebenso wie bereichsspezifische Autonomie ermöglicht. Die Kommunikation ist meist teamnah, jedoch in bereichsübergreifenden Kontexten formalisiert. Veränderungen sind möglich, benötigen aber koordinierte Abstimmungen über mehrere Ebenen hinweg. Als klassisches KMU ist die Kultur stark vom Führungsstil und der individuellen Prägung zentraler Personen abhängig. Prozesse sind zwar vorhanden, aber nicht stark formalisiert und erlauben pragmatisches Handeln. Persönliche Bindungen – etwa zu Kolleg:innen oder zur Unternehmensmission – spielen eine große Rolle für die Identifikation, während Veränderungen meist schrittweise und nicht disruptiv erfolgen. Der Kommunikationsstil kann zwischen direkt und hierarchisch variieren, abhängig vom Kontext. Die Tätigkeit im Beratungsumfeld sorgt für ein gewisses Maß an Leistungsorientierung und Projektfokus, verbunden mit wechselnden Anforderungen und hoher Eigenverantwortung. Die Fehlerkultur ist konstruktiv, allerdings stark von Teamkonstellationen abhängig. Innovationskultur zeigt sich punktuell, meist eingebettet in Kundenprojekte. Insgesamt herrscht eine mittelstarke Prozessorientierung, wobei der individuelle Gestaltungswille gefördert wird, wenn er mit Kundenanforderungen harmoniert.",
+  "culture_short": "Flexibel-strukturiertes KMU mit beratungsnaher Kultur, teamorientierter Kommunikation und moderater Innovationssprache.",
+  "jobs": [
+    {
+      "job_title": "IT-Consultant (m/w/d) – Digital Finance",
+      "job_description": "Begleitung digitaler Finanzprojekte bei Banken und FinTechs, von Konzeption bis Implementierung.",
+      "job_link": "https://syngenio.com/karriere/it-consultant-digital-finance"
+    },
+    {
+      "job_title": "Softwareentwickler:in Java / Spring",
+      "job_description": "Entwicklung modularer Softwarelösungen auf Java-Basis für digitale Plattformen im Finanzbereich.",
+      "job_link": "https://syngenio.com/karriere/softwareentwickler-java"
+    }
+  ],
+  "benefits": [
+    "Flexible Arbeitszeiten",
+    "Teilweise Remote",
+    "Weiterbildung",
+    "Flache Hierarchien",
+    "30 Urlaubstage",
+    "Modernes Equipment",
+    "Mentoring-Programm"
+  ]
+}

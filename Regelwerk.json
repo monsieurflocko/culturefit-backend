@@ -207,6 +207,54 @@
         "Innovation erfolgt eher schrittweise als experimentell.",
         "Identifikation erfolgt über handwerkliche Qualität oder Produktnutzen."
       ]
+    },
+    {
+      "label": "SaaS",
+      "definition": "Unternehmen, die Software-as-a-Service (SaaS) Produkte entwickeln und über das Internet bereitstellen. Sie kombinieren Technologieentwicklung mit wiederkehrenden Kundenbeziehungen.",
+      "cultural_effects": [
+        "Technologischer Fokus mit agiler Produktentwicklung.",
+        "Kontinuierliche Kundenbindung statt Einzelprojekte.",
+        "Performance- und KPI-orientierte Arbeitsweise.",
+        "Starke Feedbackkultur durch iterative Releasezyklen.",
+        "Cross-funktionale Teams mit hoher Eigenverantwortung.",
+        "Kommunikation ist effizient, daten- und kundenfokussiert."
+      ]
+    },
+    {
+      "label": "Finanzdienstleister",
+      "definition": "Unternehmen, die Bank-, Versicherungs- oder Finanzprodukte anbieten oder verwalten – mit stark reguliertem Rahmen und hohem Verantwortungsgrad gegenüber Kunden und Aufsichtsbehörden.",
+      "cultural_effects": [
+        "Hoher Formalisierungsgrad in Prozessen und Kommunikation.",
+        "Starke Regeltreue und Dokumentationspflichten prägen die Arbeit.",
+        "Verantwortung für finanzielle Sicherheit erzeugt hohen Qualitätsanspruch.",
+        "Innovation verläuft eher kontrolliert als experimentell.",
+        "Hierarchien und Zuständigkeiten sind klar definiert.",
+        "Arbeitsweise ist strukturiert, mit hohem Risikobewusstsein."
+      ]
+    },
+    {
+      "label": "Verlagswesen",
+      "definition": "Unternehmen, die Inhalte (Print oder digital) erstellen, kuratieren, publizieren und verbreiten – mit journalistischem, redaktionellem oder literarischem Fokus.",
+      "cultural_effects": [
+        "Hohe Bedeutung von Sprache, Inhalt und redaktioneller Qualität.",
+        "Redaktionsprozesse bestimmen Taktung und Abstimmungen.",
+        "Kreative Freiheit trifft auf Deadlines und Veröffentlichungspflichten.",
+        "Hierarchien sind oft traditionell, aber mit gestalterischem Spielraum.",
+        "Digitale Transformation erfordert Offenheit für neue Formate.",
+        "Identifikation erfolgt über inhaltliche Themen oder publizistische Haltung."
+      ]
+    },
+    {
+      "label": "Handelsunternehmen",
+      "definition": "Unternehmen, die Waren einkaufen, lagern, vertreiben und verkaufen – stationär oder digital. Logistik, Einkauf und Vertrieb stehen im Zentrum der Tätigkeit.",
+      "cultural_effects": [
+        "Starke Ergebnisorientierung entlang von Absatz- und Margenzielen.",
+        "Taktisches Denken in Sortimenten, Aktionen und Zielgruppen.",
+        "Kundenfokus in Service, Präsentation und Reaktionsfähigkeit.",
+        "Schnelle Entscheidungen bei hohem Wettbewerbsdruck.",
+        "Hierarchien und Verantwortlichkeiten sind operativ geprägt.",
+        "Innovation erfolgt oft marktorientiert und pragmatisch."
+      ]
     }
   ]
 }
@@ -299,6 +347,116 @@
         "Fehlerkultur ist oft pragmatisch – Fehler werden schnell behoben, aber selten systematisch reflektiert.",
         "Eigenverantwortung hängt stark von der operativen Erfahrung ab.",
         "Regulierungen (z. B. Sicherheits-, Umwelt- oder Bauvorgaben) wirken auf Tempo, Dokumentation und Entscheidungsfreiheiten."
+      ]
+    }, 
+    {
+      "label": "Energie / Umwelt / Nachhaltigkeit",
+      "definition": "Branche mit Fokus auf Ressourcenschutz, Energieversorgung und nachhaltige Entwicklung – oft im Spannungsfeld zwischen Technik, Regulierung und gesellschaftlichem Anspruch.",
+      "cultural_effects": [
+        "Sinnorientierung ist stark ausgeprägt – Themen wie Klima, Umwelt, Zukunftsfähigkeit prägen die Motivation.",
+        "Regulatorische Anforderungen erfordern strukturierte Arbeitsweise und Dokumentation.",
+        "Interdisziplinarität zwischen Technik, Politik und Gesellschaft ist zentral.",
+        "Kommunikation ist sachlich, stakeholderorientiert und teils politisch geprägt.",
+        "Fehlerkultur variiert – technikorientierte Bereiche sind risikoavers, Innovationsbereiche experimenteller."
+      ]
+    },
+    {
+      "label": "Mobilität / Automotive / Verkehr / Transport",
+      "definition": "Branche, die auf die Bewegung von Menschen und Gütern fokussiert ist – von Fahrzeugherstellung über Verkehrssysteme bis hin zu Logistikdiensten.",
+      "cultural_effects": [
+        "Effizienz- und sicherheitsgetriebene Prozesse dominieren das tägliche Handeln.",
+        "Innovation (z. B. Elektromobilität, autonomes Fahren) trifft auf bestehende industrielle Strukturen.",
+        "Hierarchien sind oft ausgeprägt – insbesondere in traditionellen OEMs.",
+        "Kommunikation ist prozess- und technikorientiert.",
+        "Fehlerkultur ist in sicherheitsrelevanten Bereichen vorsichtig und formalisiert."
+      ]
+    },
+    {
+      "label": "Recht / Steuern",
+      "definition": "Hochspezialisierte Wissensbranche mit Fokus auf Normen, Präzision und rechtlicher Absicherung – oft durch Kanzleien oder Fachabteilungen vertreten.",
+      "cultural_effects": [
+        "Fehlerkultur ist minimalistisch – Risiken werden systematisch vermieden.",
+        "Kommunikation ist präzise, formal und schriftbasiert.",
+        "Arbeitsweise ist stark von Fristen und Genauigkeit geprägt.",
+        "Hierarchien sind häufig deutlich erkennbar.",
+        "Innovationen werden nur vorsichtig eingeführt – Legal Tech verändert allmählich die Branche."
+      ]
+    },
+    {
+      "label": "Öffentlicher Sektor / Verwaltung / Behörden",
+      "definition": "Institutionen mit gesetzlichem Auftrag und Gemeinwohlverantwortung – oft geprägt von Stabilität, Formalismus und Transparenzpflicht.",
+      "cultural_effects": [
+        "Hohe Regelgebundenheit und formalisierte Entscheidungsprozesse.",
+        "Veränderung erfolgt langsam und in geregelten Bahnen.",
+        "Kommunikation ist sachlich, korrekt und hierarchisch abgestuft.",
+        "Fehlerkultur ist defensiv – Kontrolle und Absicherung sind zentral.",
+        "Sinnstiftung erfolgt über Beitrag zum Gemeinwesen."
+      ]
+    },
+    {
+      "label": "Landwirtschaft / Ernährung / Lebensmittelindustrie",
+      "definition": "Branche mit Fokus auf Ernährung, Lebensmittelsicherheit und Versorgung – stark geprägt durch Regularien, Saisonalität und Verbrauchernähe.",
+      "cultural_effects": [
+        "Regulierungen (z. B. Hygiene, Herkunft, Qualität) prägen das Arbeiten.",
+        "Arbeitsweise ist oft pragmatisch und an Produktionszyklen angepasst.",
+        "Kommunikation ist direkt, sachlich und häufig handlungsorientiert.",
+        "Sinnorientierung kann hoch sein – etwa bei regionaler Produktion oder Bio-Anbietern.",
+        "Fehlerkultur variiert – in der Produktion streng, im Marketing experimenteller."
+      ]
+    },
+    {
+      "label": "Immobilien / Bauwirtschaft / Architektur",
+      "definition": "Branche mit langfristigen Projekten, hoher Kapitalbindung und starkem Regelbezug – von Planung bis Betrieb von Immobilien und Infrastruktur.",
+      "cultural_effects": [
+        "Kommunikation ist projekt- und stakeholdergetrieben – teils komplex und juristisch abgesichert.",
+        "Fehler haben oft große finanzielle oder rechtliche Konsequenzen.",
+        "Planungssicherheit und Dokumentation sind essenziell.",
+        "Innovation erfolgt vorsichtig – z. B. durch nachhaltiges Bauen oder digitale Planungsmodelle (BIM).",
+        "Hierarchien und Zuständigkeiten sind oft klar geregelt."
+      ]
+    },
+    {
+      "label": "Tourismus / Freizeit / Events / Kultur",
+      "definition": "Erlebnis- und serviceorientierte Branche mit Fokus auf Emotionen, Kundenzufriedenheit und Gestaltung von Freizeitangeboten.",
+      "cultural_effects": [
+        "Arbeitsweise ist flexibel, oft außerhalb klassischer Bürozeiten.",
+        "Kundenorientierung und Empathie stehen im Vordergrund.",
+        "Kommunikation ist emotional, offen und serviceorientiert.",
+        "Fehlerkultur ist stark vom Führungsstil abhängig – Toleranz bei operativen Fehlern, Druck bei Kundenunzufriedenheit.",
+        "Teamspirit, Kreativität und Improvisationsfähigkeit prägen den Alltag."
+      ]
+    },
+    {
+      "label": "Sicherheitsdienste / Verteidigung / Cybersecurity",
+      "definition": "Branchen mit Fokus auf Schutz, Prävention und Stabilität – sowohl physisch als auch digital.",
+      "cultural_effects": [
+        "Fehlervermeidung ist oberstes Gebot – Risikobewusstsein dominiert.",
+        "Kommunikation ist klar, formalisiert und teils verschlossen.",
+        "Hierarchien sind stark ausgeprägt – klare Befehlsketten und Verantwortungen.",
+        "Innovation wird sicherheitsgeprüft und langsam eingeführt.",
+        "Sinnstiftung kann über Schutzfunktionen oder ethische Verantwortung erfolgen."
+      ]
+    },
+    {
+      "label": "Non-Profit / NGO / Sozialwirtschaft",
+      "definition": "Organisationen mit gemeinwohlorientiertem Auftrag – oft spendenfinanziert oder staatlich gefördert.",
+      "cultural_effects": [
+        "Sinnstiftung ist zentrales Motiv – persönliche Identifikation mit der Mission ist häufig.",
+        "Ressourcenknappheit erfordert Pragmatismus und Improvisation.",
+        "Hierarchien sind oft flach, Entscheidungen konsensorientiert.",
+        "Kommunikation ist wertebasiert und auf Partizipation ausgelegt.",
+        "Fehlerkultur ist oft informell und teamabhängig."
+      ]
+    },
+    {
+      "label": "Handel / E-Commerce / Einzelhandel",
+      "definition": "Absatzorientierte Branchen mit Fokus auf Produkte, Kundenservice und Wettbewerbsfähigkeit – online oder stationär.",
+      "cultural_effects": [
+        "Kundenorientierung prägt Kommunikation und Prozesse.",
+        "Fehlerkultur ist pragmatisch – Reaktionsschnelligkeit ist wichtiger als Analyse.",
+        "Innovation erfolgt oft über Sortimente, Kanäle oder Kundenansprache.",
+        "Zeitdruck und Margenbewusstsein bestimmen den Alltag.",
+        "Hierarchien variieren stark – von flach (Start-ups) bis funktional (Filialstrukturen)."
       ]
     }
   ]

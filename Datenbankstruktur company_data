@@ -1,0 +1,33 @@
+{
+  "id": "Eindeutige ID zu einem Unternehmen, z.B.: 1, 2, 3, ...",
+  "name": "Name des Unternehmens, z.B. Syngenio AG, Siemens AG, ...",
+  "website": "Der Link zur Webseite des Unternehmens, z.B. https://syngenio.com, ...",
+  "website_jobs": "Der Link zur Karriereseite des Unternehmens, z.B. https://syngenio.com/jobs, ...",
+  "locations": "Standorte der Unternehmen, z.B. Berlin, München, Stuttgart, ...",
+  "sources": "Verwendete Quellen zur Erstellung des Eintrags, z.B. Unternehmenswebseite, LinkedIn, Kununu ...",
+  "last_updated": "Letzte Aktualisierung der Informationen dieses Datenbankeintrags (Format: YYYY-MM-DD)",
+  "categories": {
+    "Unternehmensgröße": "Anzahl der Mitarbeitenden, z.B. 45",
+    "Unternehmenstyp": "Strukturelle und kulturelle Grundform des Unternehmens, z.B. Startup, KMU, Konzern, NGO, Öffentliche Einrichtung, Genossenschaft / Sozialwirtschaft",
+    "Firmentyp / Tätigkeit": "Operative Ausrichtung des Unternehmens, z.B. Beratung, Produktfirma, Agentur / Kreativdienstleister, Plattformanbieter, Fertigung, SaaS, Finanzdienstleister, Verlagswesen, Handelsunternehmen",
+    "Branche / Tätigkeitsfeld": "Wirtschaftliches Umfeld, z.B. IT, Pharma, Industrie, Finanzen, Bau, Nachhaltigkeit, Mobilität, Recht, Verwaltung, Lebensmittel, Architektur, Tourismus, Verteidigung, NGO, Handel",
+    "Geschäftsmodell": "Form der wirtschaftlichen Tätigkeit, z.B. Projektgeschäft, Produktgeschäft, Mischform",
+    "Remote-Option": "Grad der ortsunabhängigen Arbeit, z.B. Keine Remote-Option, Teilweise Remote, Vollständig Remote möglich",
+    "Innovationssprache": "Nutzung von Innovationsbegriffen in der Außendarstellung, z.B. Wenig / traditionell, Moderat / unterstützend, Stark ausgeprägt / explorativ",
+    "CSR / Purpose-Kommunikation": "Ausmaß gesellschaftlicher / ökologischer / werteorientierter Kommunikation, z.B. Gering, Moderat, Stark ausgeprägt"
+  },
+  "description_long": "Ausführliche Beschreibung (300-500 Wörter) des Unternehmens mit Fokus auf Tätigkeitsbereich, Geschäftsschwerpunkte, Unternehmensstruktur, kulturelle Besonderheiten, Innovationsgrad und strategische Ausrichtung. Der Text soll das Unternehmen inhaltlich und semantisch klar von anderen abgrenzen und genügend Kontext bieten, um kulturelle, strukturelle und fachliche Übereinstimmungen mit Bewerbenden zu erkennen.",
+  "description_short": "Kurze, prägnante Beschreibung (20-40 Wörter) des Unternehmens mit Fokus auf Branche, Hauptprodukte oder Services und Kundensegment. Ziel ist es, Benutzern innerhalb weniger Sekunden ein klares Bild vom Tätigkeitsfeld des Unternehmens zu geben und ihm die Informationen zu geben, die ein potenzieller Bewerber als erstes zu einem Unternehmen erfahren möchte.",
+  "culture_long": "(300-500 Wörter) Ergibt sich aus dem Regelwerk (weiteres Dokument). Culture_long beschreibt ausschließlich kulturelle Wirkungen, die sich direkt aus der Klassifizierung des Unternehmens gemäß Regelwerk ableiten lassen. Sie bildet typische Merkmale der Unternehmenskultur ab – darunter: Führung & Struktur, Fehlerkultur & Lernhaltung, Sinnorientierung & Werte, Veränderungsbereitschaft, Kommunikationsstil, Eigenverantwortung & Autonomie, Innovationskultur, Prozessorientierung & Stabilität, Teamkultur, Arbeitsweise & Tempo sowie Leistungsorientierung & Druck. Jeder Satz muss mindestens auf eine konkrete kategorische Ausprägung zurückzuführen sein. Dabei dürfen keine kulturellen Effekte ausgelassen werden, die laut Regelwerk aus der Klassifizierung ableitbar sind – die Beschreibung soll vollständig und fundiert sein. Ergänzungen sind nur zulässig, wenn kulturelle Eigenschaften durch öffentlich zugängliche Quellen belegt werden können (z. B. über die Unternehmenswebsite, Blogbeiträge oder Stellenanzeigen). Subjektive Annahmen, übergeneralisierende Formulierungen oder spekulative Aussagen (z. B. über Rituale, Teamgefühle oder Führungsstile) sind nicht Bestandteil der Culture Description. Allgemeine Informationen, Produktbeschreibungen, Teamgrößen oder Beispiele ohne klaren kulturellen Bezug gehören nicht in diesen Abschnitt.",
+  "culture_short":Im wesentlichen culture_long auf die Kernelemente runtergebrochen (20-40 Wörter). Ziel ist es, dass der Benutzer nach wenigen Sekunden das Unternehmen kulturell einordnen kann.",
+  "jobs": [
+    {
+      "job_title": "Bezeichnung einer ausgeschriebenen Position",
+      "job_description": "Kurze Beschreibung (20–40 Wörter) der aufgeführten ausgeschrieben Position (job_title) zur Tätigkeit laut Ausschreibung",
+      "job_link": "Link zur aufgeführten ausgeschrieben Position auf der Karriereseite"
+    }
+  ],
+  "benefits": [
+    "Liste extrahierter Benefits des Unternehmens, z.B. Homeoffice, Weiterbildungen, Firmenwagen,..."
+  ]
+}
